@@ -36,9 +36,10 @@
 
 ## Usage
 
-1. Download the flavor of your choice.
-2. Open the app and go to **Preferences** > **Appearance** > **Import theme**.
-3. Select the downloaded flavor file.
+1. Copy the config from the theme of your choice.
+2. Edit or make a `.config/ov/config.yaml` file.
+3. Paste in the style config from step 1!
+4. Feel free to customize it to your liking. An example config is also provided!
 
 <!-- The FAQ section is optional. Remove if needed.-->
 ## 🙋 FAQ
@@ -48,7 +49,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Toria](https://github.com/ninetailedtori)
 
 &nbsp;
 

@@ -1,0 +1,63 @@
+---
+whiskers:
+  version: ^2.5.1
+  matrix:
+    - flavor
+  filename: themes/catppuccin-{{ flavor.identifier }}.yaml
+  hex_format: "#{{r}}{{g}}{{b}}"
+---
+  Style:
+    Header:
+      Bold: true
+      Foreground: "{{ mauve.hex }}"
+      Background: "{{ mantle.hex }}"
+    Body:
+      Foreground: "{{ text.hex }}"
+      Background: "{{ base.hex }}"
+    Alternate:
+      Background: "{{ surface0.hex }}"
+    LineNumber:
+      Bold: true
+      Background: "{{ base.hex }}"
+    SearchHighlight:
+      Reverse: true
+    ColumnHighlight:
+      Reverse: true
+    MarkLine:
+      Italic: true
+      Foreground: "{{ maroon.hex }}"
+    SectionLine:
+      Background: "{{ mauve.hex }}"
+    Ruler:
+      Foreground: "{{ peach.hex }}"
+      Bold: true
+    MultiColorHighlight:
+      - Foreground: "{{ rosewater.hex }}"
+      - Foreground: "{{ flamingo.hex }}"
+      - Foreground: "{{ pink.hex }}"
+      - Foreground: "{{ mauve.hex }}"
+      - Foreground: "{{ red.hex }}"
+      - Foreground: "{{ maroon.hex }}"
+      - Foreground: "{{ peach.hex }}"
+      - Foreground: "{{ yellow.hex }}"
+      - Foreground: "{{ green.hex }}"
+      - Foreground: "{{ teal.hex }}"
+      - Foreground: "{{ sky.hex }}"
+      - Foreground: "{{ sapphire.hex }}"
+      - Foreground: "{{ blue.hex }}"
+      - Foreground: "{{ lavender.hex }}"
+    ColumnRainbow:
+      - Foreground: "{{ rosewater.hex }}"
+      - Foreground: "{{ flamingo.hex }}"
+      - Foreground: "{{ pink.hex }}"
+      - Foreground: "{{ mauve.hex }}"
+      - Foreground: "{{ red.hex }}"
+      - Foreground: "{{ maroon.hex }}"
+      - Foreground: "{{ peach.hex }}"
+      - Foreground: "{{ yellow.hex }}"
+      - Foreground: "{{ green.hex }}"
+      - Foreground: "{{ teal.hex }}"
+      - Foreground: "{{ sky.hex }}"
+      - Foreground: "{{ sapphire.hex }}"
+      - Foreground: "{{ blue.hex }}"
+      - Foreground: "{{ lavender.hex }}"

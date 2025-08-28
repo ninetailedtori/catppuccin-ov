@@ -1,0 +1,55 @@
+  Style:
+    Header:
+      Bold: true
+      Foreground: "#ca9ee6"
+      Background: "#292c3c"
+    Body:
+      Foreground: "#c6d0f5"
+      Background: "#303446"
+    Alternate:
+      Background: "#414559"
+    LineNumber:
+      Bold: true
+      Background: "#303446"
+    SearchHighlight:
+      Reverse: true
+    ColumnHighlight:
+      Reverse: true
+    MarkLine:
+      Italic: true
+      Foreground: "#ea999c"
+    SectionLine:
+      Background: "#ca9ee6"
+    Ruler:
+      Foreground: "#ef9f76"
+      Bold: true
+    MultiColorHighlight:
+      - Foreground: "#f2d5cf"
+      - Foreground: "#eebebe"
+      - Foreground: "#f4b8e4"
+      - Foreground: "#ca9ee6"
+      - Foreground: "#e78284"
+      - Foreground: "#ea999c"
+      - Foreground: "#ef9f76"
+      - Foreground: "#e5c890"
+      - Foreground: "#a6d189"
+      - Foreground: "#81c8be"
+      - Foreground: "#99d1db"
+      - Foreground: "#85c1dc"
+      - Foreground: "#8caaee"
+      - Foreground: "#babbf1"
+    ColumnRainbow:
+      - Foreground: "#f2d5cf"
+      - Foreground: "#eebebe"
+      - Foreground: "#f4b8e4"
+      - Foreground: "#ca9ee6"
+      - Foreground: "#e78284"
+      - Foreground: "#ea999c"
+      - Foreground: "#ef9f76"
+      - Foreground: "#e5c890"
+      - Foreground: "#a6d189"
+      - Foreground: "#81c8be"
+      - Foreground: "#99d1db"
+      - Foreground: "#85c1dc"
+      - Foreground: "#8caaee"
+      - Foreground: "#babbf1"
