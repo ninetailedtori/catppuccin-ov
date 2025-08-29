@@ -3,7 +3,7 @@ whiskers:
   version: ^2.5.1
   matrix:
     - flavor
-  filename: themes/catppuccin-{{ flavor.identifier }}.yaml
+  filename: themes/{{ flavor.identifier }}.yaml
   hex_format: "#{{r}}{{g}}{{b}}"
 ---
   Style:
