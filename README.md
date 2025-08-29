@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ninetailedtori/catppuccin-ov/main/assets/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/ninetailedtori/catppuccin-ov/main/assets/macchiato.webp"/>
 </p>
 
 ## Previews
